@@ -1,2 +1,3 @@
 - https://www.coursera.org/learn/cloud-sys-software
+- https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-jp
 - 
